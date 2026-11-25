@@ -1,0 +1,562 @@
+{
+  "catalog": [
+    {
+      "id": "f0",
+      "dimension": "Tecnológica",
+      "name": "Compatibilidad",
+      "il": 3,
+      "ie": 3,
+      "is": 3,
+      "impact": "EXTERNO",
+      "active": true,
+      "subs": [
+        {
+          "id": "f0s0",
+          "text": "Hay una oferta de infraestructura en la nube preparada para alojarlo.",
+          "active": true
+        },
+        {
+          "id": "f0s1",
+          "text": "Puede generar archivos en formatos propietarios.",
+          "active": true
+        },
+        {
+          "id": "f0s2",
+          "text": "Se integra con las aplicaciones propietarias que ya utiliza la organización.",
+          "active": true
+        },
+        {
+          "id": "f0s3",
+          "text": "Cuenta con certificación para el sector en que se utilizará.",
+          "active": true
+        },
+        {
+          "id": "f0s4",
+          "text": "Cubre los usos y funciones habituales de la organización.",
+          "active": true
+        },
+        {
+          "id": "f0s5",
+          "text": "Admite distintas configuraciones de hardware.",
+          "active": true
+        },
+        {
+          "id": "f0s6",
+          "text": "Trabaja con estándares para el intercambio de datos.",
+          "active": true
+        },
+        {
+          "id": "f0s7",
+          "text": "Puede ejecutarse sobre diferentes sistemas operativos.",
+          "active": true
+        }
+      ]
+    },
+    {
+      "id": "f1",
+      "dimension": "Tecnológica",
+      "name": "Fiabilidad",
+      "il": 3,
+      "ie": 3,
+      "is": 3,
+      "impact": "EXTERNO",
+      "active": true,
+      "subs": [
+        {
+          "id": "f1s0",
+          "text": "Su trayectoria de seguridad resulta adecuada para la organización.",
+          "active": true
+        },
+        {
+          "id": "f1s1",
+          "text": "Ofrece estabilidad y fiabilidad durante la operación.",
+          "active": true
+        },
+        {
+          "id": "f1s2",
+          "text": "Su flexibilidad supera la de la alternativa propietaria de referencia.",
+          "active": true
+        },
+        {
+          "id": "f1s3",
+          "text": "Su confiabilidad supera la de la alternativa propietaria de referencia.",
+          "active": true
+        },
+        {
+          "id": "f1s4",
+          "text": "Permite administrar el acceso mediante controles suficientemente variados.",
+          "active": true
+        }
+      ]
+    },
+    {
+      "id": "f2",
+      "dimension": "Tecnológica",
+      "name": "Mantenibilidad",
+      "il": 3,
+      "ie": 3,
+      "is": 3,
+      "impact": "EXTERNO",
+      "active": true,
+      "subs": [
+        {
+          "id": "f2s0",
+          "text": "El equipo desarrollador mantiene activamente el producto.",
+          "active": true
+        }
+      ]
+    },
+    {
+      "id": "f3",
+      "dimension": "Tecnológica",
+      "name": "Personalización",
+      "il": 4,
+      "ie": 3,
+      "is": 3,
+      "impact": "EXTERNO",
+      "active": true,
+      "subs": [
+        {
+          "id": "f3s0",
+          "text": "La posibilidad de acceder al código aporta valor a la organización.",
+          "active": true
+        },
+        {
+          "id": "f3s1",
+          "text": "Es viable ampliar sus capacidades modificando el código.",
+          "active": true
+        },
+        {
+          "id": "f3s2",
+          "text": "Incorpora innovaciones con una frecuencia adecuada.",
+          "active": true
+        },
+        {
+          "id": "f3s3",
+          "text": "Puede personalizarse mediante configuración, sin cambiar el código.",
+          "active": true
+        },
+        {
+          "id": "f3s4",
+          "text": "Permite incorporar funcionalidades instalando módulos.",
+          "active": true
+        },
+        {
+          "id": "f3s5",
+          "text": "Dispone de un repositorio público de extensiones.",
+          "active": true
+        }
+      ]
+    },
+    {
+      "id": "f4",
+      "dimension": "Tecnológica",
+      "name": "Prueba",
+      "il": 3,
+      "ie": 3,
+      "is": 3,
+      "impact": "EXTERNO",
+      "active": true,
+      "subs": [
+        {
+          "id": "f4s0",
+          "text": "Resulta sencillo instalarlo y realizar una prueba previa.",
+          "active": true
+        }
+      ]
+    },
+    {
+      "id": "f5",
+      "dimension": "Tecnológica",
+      "name": "Documentación",
+      "il": 1,
+      "ie": 3,
+      "is": 2,
+      "impact": "EXTERNO",
+      "active": true,
+      "subs": [
+        {
+          "id": "f5s0",
+          "text": "La documentación técnica explica todas las funcionalidades.",
+          "active": true
+        },
+        {
+          "id": "f5s1",
+          "text": "La documentación disponible es suficiente para utilizar el producto.",
+          "active": true
+        },
+        {
+          "id": "f5s2",
+          "text": "Los documentos se ofrecen en diferentes formatos.",
+          "active": true
+        },
+        {
+          "id": "f5s3",
+          "text": "La redacción permite comprender las instrucciones con facilidad.",
+          "active": true
+        },
+        {
+          "id": "f5s4",
+          "text": "Los documentos corresponden a las versiones actuales.",
+          "active": true
+        },
+        {
+          "id": "f5s5",
+          "text": "La documentación cuenta con autores especializados.",
+          "active": true
+        },
+        {
+          "id": "f5s6",
+          "text": "La calidad editorial y técnica de los documentos es adecuada.",
+          "active": true
+        },
+        {
+          "id": "f5s7",
+          "text": "Existe documentación dirigida a quienes desarrollan el producto.",
+          "active": true
+        },
+        {
+          "id": "f5s8",
+          "text": "Existe documentación dirigida a sus usuarios.",
+          "active": true
+        },
+        {
+          "id": "f5s9",
+          "text": "Los manuales de usuario cubren las funcionalidades disponibles.",
+          "active": true
+        },
+        {
+          "id": "f5s10",
+          "text": "Se explica la estructura de los formatos de datos utilizados.",
+          "active": true
+        }
+      ]
+    },
+    {
+      "id": "f6",
+      "dimension": "Tecnológica",
+      "name": "Portabilidad",
+      "il": 2,
+      "ie": 3,
+      "is": 2,
+      "impact": "EXTERNO",
+      "active": true,
+      "subs": [
+        {
+          "id": "f6s0",
+          "text": "Existe una edición para dispositivos móviles.",
+          "active": true
+        },
+        {
+          "id": "f6s1",
+          "text": "El producto puede funcionar sin depender de un gestor específico de bases de datos.",
+          "active": true
+        }
+      ]
+    },
+    {
+      "id": "f7",
+      "dimension": "Tecnológica",
+      "name": "Reusabilidad",
+      "il": 2,
+      "ie": 3,
+      "is": 2,
+      "impact": "EXTERNO",
+      "active": true,
+      "subs": [
+        {
+          "id": "f7s0",
+          "text": "La licencia admite que se construyan extensiones propietarias.",
+          "active": true
+        },
+        {
+          "id": "f7s1",
+          "text": "Se distribuyen componentes reutilizables como biblioteca o framework.",
+          "active": true
+        }
+      ]
+    },
+    {
+      "id": "f8",
+      "dimension": "Tecnológica",
+      "name": "Usabilidad",
+      "il": 2,
+      "ie": 3,
+      "is": 2,
+      "impact": "EXTERNO",
+      "active": true,
+      "subs": [
+        {
+          "id": "f8s0",
+          "text": "Dispone de una interfaz gráfica para el usuario.",
+          "active": true
+        },
+        {
+          "id": "f8s1",
+          "text": "Su uso resulta más sencillo que el de la alternativa propietaria de referencia.",
+          "active": true
+        },
+        {
+          "id": "f8s2",
+          "text": "Aprender a utilizarlo requiere un esfuerzo razonable.",
+          "active": true
+        },
+        {
+          "id": "f8s3",
+          "text": "Existe insatisfacción de los usuarios con la solución propietaria actual.",
+          "active": true
+        }
+      ]
+    },
+    {
+      "id": "f9",
+      "dimension": "Organizacional",
+      "name": "Apoyo de la alta dirección",
+      "il": 4,
+      "ie": 3,
+      "is": 3,
+      "impact": "INTERNO",
+      "active": true,
+      "subs": [
+        {
+          "id": "f9s0",
+          "text": "La dirección respalda la adopción del producto.",
+          "active": true
+        },
+        {
+          "id": "f9s1",
+          "text": "El equipo de TI apoya la decisión de adoptarlo.",
+          "active": true
+        }
+      ]
+    },
+    {
+      "id": "f10",
+      "dimension": "Organizacional",
+      "name": "Formación",
+      "il": 4,
+      "ie": 3,
+      "is": 3,
+      "impact": "INTERNO",
+      "active": true,
+      "subs": [
+        {
+          "id": "f10s0",
+          "text": "Su adopción contribuye a desarrollar competencias técnicas en TI.",
+          "active": true
+        },
+        {
+          "id": "f10s1",
+          "text": "El personal puede aprender a utilizarlo de manera autónoma.",
+          "active": true
+        },
+        {
+          "id": "f10s2",
+          "text": "El personal dispone de capacidad para resolver problemas tecnológicos.",
+          "active": true
+        },
+        {
+          "id": "f10s3",
+          "text": "Hay programas de formación disponibles para el producto.",
+          "active": true
+        }
+      ]
+    },
+    {
+      "id": "f11",
+      "dimension": "Organizacional",
+      "name": "Soporte",
+      "il": 4,
+      "ie": 3,
+      "is": 3,
+      "impact": "AMBOS",
+      "active": true,
+      "subs": [
+        {
+          "id": "f11s0",
+          "text": "La comunidad de usuarios ofrece asistencia.",
+          "active": true
+        },
+        {
+          "id": "f11s1",
+          "text": "Hay especialistas externos a quienes consultar problemas específicos.",
+          "active": true
+        },
+        {
+          "id": "f11s2",
+          "text": "Se ofrece asistencia comercial permanente, incluidos fines de semana.",
+          "active": true
+        },
+        {
+          "id": "f11s3",
+          "text": "Es viable contratar profesionales de la comunidad que dominen el producto.",
+          "active": true
+        },
+        {
+          "id": "f11s4",
+          "text": "La organización dispone de desarrolladores capaces de trabajar con el producto.",
+          "active": true
+        },
+        {
+          "id": "f11s5",
+          "text": "Existen proveedores que ofrecen asistencia para personalizarlo.",
+          "active": true
+        }
+      ]
+    },
+    {
+      "id": "f12",
+      "dimension": "Organizacional",
+      "name": "Actitud hacia el cambio",
+      "il": 1,
+      "ie": 3,
+      "is": 2,
+      "impact": "INTERNO",
+      "active": true,
+      "subs": [
+        {
+          "id": "f12s0",
+          "text": "La resistencia del personal frente al cambio tecnológico es reducida.",
+          "active": true
+        }
+      ]
+    },
+    {
+      "id": "f13",
+      "dimension": "Organizacional",
+      "name": "Bloqueo de proveedores",
+      "il": 2,
+      "ie": 3,
+      "is": 2,
+      "impact": "EXTERNO",
+      "active": true,
+      "subs": [
+        {
+          "id": "f13s0",
+          "text": "Su adopción disminuye la dependencia de proveedores específicos.",
+          "active": true
+        }
+      ]
+    },
+    {
+      "id": "f14",
+      "dimension": "Organizacional",
+      "name": "Casos de estudio de adopción",
+      "il": 1,
+      "ie": 3,
+      "is": 2,
+      "impact": "EXTERNO",
+      "active": true,
+      "subs": [
+        {
+          "id": "f14s0",
+          "text": "Hay experiencias públicas de adopción exitosa en organizaciones comparables.",
+          "active": true
+        }
+      ]
+    },
+    {
+      "id": "f15",
+      "dimension": "Organizacional",
+      "name": "Centralidad de TI",
+      "il": 1,
+      "ie": 3,
+      "is": 2,
+      "impact": "INTERNO",
+      "active": true,
+      "subs": [
+        {
+          "id": "f15s0",
+          "text": "Su adopción mejora las condiciones de trabajo de los usuarios.",
+          "active": true
+        },
+        {
+          "id": "f15s1",
+          "text": "Centralizar la infraestructura tecnológica facilita su incorporación.",
+          "active": true
+        }
+      ]
+    },
+    {
+      "id": "f16",
+      "dimension": "Organizacional",
+      "name": "Tiempo de adopción",
+      "il": 1,
+      "ie": 3,
+      "is": 2,
+      "impact": "INTERNO",
+      "active": true,
+      "subs": [
+        {
+          "id": "f16s0",
+          "text": "La organización puede cumplir con facilidad los requisitos de instalación y despliegue.",
+          "active": true
+        },
+        {
+          "id": "f16s1",
+          "text": "El tiempo necesario para implantarlo es reducido.",
+          "active": true
+        }
+      ]
+    },
+    {
+      "id": "f17",
+      "dimension": "Económica",
+      "name": "Costo total de propiedad (TCO)",
+      "il": 4,
+      "ie": 3,
+      "is": 3,
+      "impact": "INTERNO",
+      "active": true,
+      "subs": [
+        {
+          "id": "f17s0",
+          "text": "El riesgo de costos no previstos durante la adopción es bajo.",
+          "active": true
+        },
+        {
+          "id": "f17s1",
+          "text": "El costo de adoptarlo es inferior al de la alternativa propietaria de referencia.",
+          "active": true
+        }
+      ]
+    }
+  ],
+  "matrix": [
+    [
+      1,
+      1,
+      2,
+      2
+    ],
+    [
+      1,
+      2,
+      2,
+      3
+    ],
+    [
+      2,
+      2,
+      3,
+      3
+    ],
+    [
+      2,
+      3,
+      3,
+      4
+    ]
+  ],
+  "templates": {
+    "Fortaleza": "Mantener las prácticas que respaldan {factor} y conservar la evidencia de cumplimiento.",
+    "Oportunidad": "Aprovechar las condiciones favorables de {factor} y hacer seguimiento durante la adopción.",
+    "Debilidad": "Preparar un plan de mejora para {factor}, asignar un responsable y verificar su cumplimiento antes de adoptar.",
+    "Amenaza": "Definir medidas de mitigación para {factor}, acordar compromisos con terceros y verificar la evidencia antes de adoptar."
+  },
+  "dimensions": [
+    "Tecnológica",
+    "Organizacional",
+    "Económica"
+  ]
+}
