@@ -1,0 +1,16 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+*.sqlite3
+.coverage*
+htmlcov/
+staticfiles/
+backups/
+
+# Configuración local y archivos privados
+.idea/
+.env.*
+!.env.example
+*.log
+*.dump
